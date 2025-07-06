@@ -2,7 +2,7 @@
 
 [Demo page with audio samples](https://realfolkcode.github.io/interpolation_demo/index.html)
 
-In this preliminary work, we interpolate between two music samples in the embedding space of Music2Latent. We compare two classical schemes that allow for averaging two feature sequences with arbitrary lengths: symmetric averaging (by Kruskal and Liberman) and DTW Barycenter Averaging. The former method results in stable samples that are coherent with temporal alignment.
+In this preliminary work, we interpolate between two music samples in the embedding space of [Music2Latent](https://github.com/SonyCSLParis/music2latent). We compare two classical schemes that allow for averaging two feature sequences with arbitrary lengths: symmetric averaging (by Kruskal and Liberman) and DTW Barycenter Averaging. The former method results in stable samples that are coherent with temporal alignment.
 
 ## How to use
 
